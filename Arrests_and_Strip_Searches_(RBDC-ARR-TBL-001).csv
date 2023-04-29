@@ -1,0 +1,22 @@
+Table 1: ANCOVA Regression Results for Strip Search Rate						
+Variable	B	Std. Error	t	Sig. (P)	Lower Bound	Upper Bound
+Intercept	1.0526	0.004	272.795	0	1.045	1.06
+Race: East_Southeast_Asian	0.0349	0.003	10.438	0	0.028	0.041
+Race: Indigenous	-0.0259	0.007	-3.743	0	-0.039	-0.012
+Race: Latino	0.0221	0.005	4.281	0	0.012	0.032
+Race: Middle_Eastern	0.0297	0.004	7.484	0	0.022	0.037
+Race: South_Asian	0.0362	0.004	9.797	0	0.029	0.043
+Race: Unknown_or_Legacy	0.0495	0.003	14.794	0	0.043	0.056
+Race: White	0.0061	0.002	2.856	0.004	0.002	0.01
+Age: 18 to 24 years	0.0068	0.004	1.65	0.099	-0.001	0.015
+Age: 25 to 34 years	0.0004	0.004	0.093	0.926	-0.007	0.008
+Age: 35 to 44 years	-0.0037	0.004	-0.925	0.355	-0.012	0.004
+Age: 45 to 54 years	-0.0054	0.004	-1.272	0.203	-0.014	0.003
+Age: 55 to 64 years	0.0016	0.005	0.335	0.737	-0.008	0.011
+Age: 65 years and older	0.0133	0.006	2.197	0.028	0.001	0.025
+Arrest Counts	-0.1217	0.001	-202.881	0	-0.123	-0.121
+						
+						
+Table 2: ANCOVA Model Summary for Strip Search Rate						
+R	R Square	Adjusted R Square	F	Sig.		
+0.566	0.566	0.566	3166	0		
